@@ -10,11 +10,7 @@ export class webController{
         //containts the whole menu as a string
         const menubar = '<div id="sidebar"> \
                         <a id="closeBtn" class="motion" href="#">X</a> \
-                        <a href="index.html">Home</a> \
-                        <a href="aboutUs.html">About</a> \
-                        <a href="adresses.html">Adresses</a> \
-                        <a href="impressum.html">Impressum</a> \
-                        <a href="contact.html">Contact</a> \
+                        <a href="index.html">Home</a>\
                     </div> \
                         <div id="menulist" class="motion">\
                             <div class="menuIcon">\
