@@ -11,6 +11,7 @@ export class webController{
         const menubar = '<div id="sidebar"> \
                         <a id="closeBtn" class="motion" href="#">X</a> \
                         <a href="index.html">Home</a>\
+                        <a href="projects.html">Projects</a>\
                     </div> \
                         <div id="menulist" class="motion">\
                             <div class="menuIcon">\

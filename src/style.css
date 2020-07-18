@@ -14,7 +14,7 @@ html, body{
 
 #menulist{
     list-style-type: none;
-    background-color: #1240AB;
+    background-color: #07327C;
     display: inline-block;
     margin: 0;
     padding: 0;
@@ -41,7 +41,7 @@ html, body{
 }
 
 .menuIcon:hover div{
-    background-color: #6cbcd5;
+    background-color: #97CCDC;
     transition: 0.2s;
 }
 
@@ -59,7 +59,7 @@ html, body{
 /* sidebar */
 #sidebar{
     position: absolute;
-    background-color:#1240AB;
+    background-color: #07327C;
     margin:0;
     padding: 0;
     height: 100%;;
@@ -99,7 +99,7 @@ html, body{
 
 #sidebar a:hover{
     cursor: pointer;
-    color: #6cbcd5;
+    color: #97CCDC;
 }
 
 #greyWall{
